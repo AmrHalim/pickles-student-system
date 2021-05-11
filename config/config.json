@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "student_system",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false,
+      "charset": "utf8"
+    }
+  }
+}

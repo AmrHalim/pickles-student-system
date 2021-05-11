@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "allowJs": true,
+        "target": "es6",
+        "lib": [
+            "es6"
+        ],
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "types": [
+        "reflect-metadata"
+    ],
+}
